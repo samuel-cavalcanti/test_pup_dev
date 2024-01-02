@@ -9,3 +9,7 @@
 
 ## 1.0.2
 - added repository in [pubspec](./pubspec.yaml)
+
+
+## 1.0.3
+- Using absolute path, but with `#gh-dark`
