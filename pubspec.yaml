@@ -1,6 +1,6 @@
 name: test_pup_dev
 description: Testing Pub Dev page
-version: 1.0.5
+version: 1.0.6
 repository: https://github.com/samuel-cavalcanti/test_pup_dev
 
 environment:
