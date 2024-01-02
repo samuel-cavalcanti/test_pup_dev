@@ -1,4 +1,4 @@
-# Test Pub dev README
+# Test Pub dev .github/README
 see in [pub.dev/packages/test_pup_dev](https://pub.dev/packages/test_pup_dev)
 
 Pub dev  expects the `README.md` file, not `Readme.md` or `readme.md`
