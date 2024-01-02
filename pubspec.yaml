@@ -1,7 +1,7 @@
 name: test_pup_dev
 description: Testing Pub Dev page
-version: 1.0.1
-# repository: https://github.com/my_org/my_repo
+version: 1.0.2
+repository: https://github.com/samuel-cavalcanti/test_pup_dev
 
 environment:
   sdk: ^3.2.3
