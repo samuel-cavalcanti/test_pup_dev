@@ -16,9 +16,9 @@ following the reference, **All files are uploaded** but the images are being fet
 ## Test Images Absolute path
 
 
-![Logo](https://github.com/samuel-cavalcanti/flutter_rust_bridge/blob/logos/website/misc/logo.png#gh-light-mode-only)
-![Logo](https://github.com/samuel-cavalcanti/flutter_rust_bridge/blob/logos/website/misc/logo_dark.png#gh-dark-mode-only)
+![Logo](https://github.com/samuel-cavalcanti/flutter_rust_bridge/raw/logos/website/misc/logo.png#gh-light-mode-only)
+![Logo](https://github.com/samuel-cavalcanti/flutter_rust_bridge/raw/logos/website/misc/logo_dark.png#gh-dark-mode-only)
 
 
-[<img src="https://github.com/samuel-cavalcanti/flutter_rust_bridge/blob/logos/website/misc/flutter_favorite.png" width="200" />](https://flutter.dev/docs/development/packages-and-plugins/favorites)
+[<img src="https://github.com/samuel-cavalcanti/flutter_rust_bridge/raw/logos/website/misc/flutter_favorite.png" width="200" />](https://flutter.dev/docs/development/packages-and-plugins/favorites)
 
